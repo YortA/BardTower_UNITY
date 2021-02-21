@@ -25,6 +25,8 @@
 *.la
 *.a
 *.lib
+*.csproj
+*.cs.meta
 
 # Executables
 *.exe
